@@ -1,0 +1,13 @@
+name = "Inventory Item Groups"
+filename = "inventory-item-groups-1.5.3-neoforge+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/adriDDJt/versions/uAV1tYN5/inventory-item-groups-1.5.3-neoforge%2B1.21.jar"
+hash-format = "sha512"
+hash = "1f0b53afc431ca532dd4df04436f57eaa5936820b0625ecdf0350291f0aa3851a3984e6e86cc815f76b986b4835473e897d8e09cfc3afe6fa2625af41032b548"
+
+[update]
+[update.modrinth]
+mod-id = "adriDDJt"
+version = "uAV1tYN5"

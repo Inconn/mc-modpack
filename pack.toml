@@ -1,0 +1,13 @@
+name = "Modpack"
+author = "incon"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "855c6c0005bb175735f614ba7f3e58a1b9e6bfb37d226867b9bbe04dd4f7f81b"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"
