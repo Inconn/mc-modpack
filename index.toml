@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".envrc"
+hash = "155596e134ef1eebb17a47e16e8dac3aae1cd94d7b2b02fd691d8db382ea96aa"
+
+[[files]]
 file = "config/dynamic_fps.json"
 hash = "fca3b803240f9a7057fd8f46f1884e70e81a56c363b1bb787cf12d140c3fed90"
 
@@ -194,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgematica.pw.toml"
-hash = "4db975b2ee5662e7ff24ed9d96539225ce2b056ae1d263d998407f230abc543f"
+hash = "24c4a1b6574271181dee4c36fca49fab0cba30e8f5ec6851cb2dc05453bde0b4"
 metafile = true
 
 [[files]]
@@ -416,3 +420,7 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
+
+[[files]]
+file = "sign.sh"
+hash = "21129a9a6a051c6c8bb151f471f9a663cabcbebd53d5112147c8f0ff9499e8cc"
