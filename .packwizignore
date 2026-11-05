@@ -1,3 +1,5 @@
-/README.md
-/unsup.sig
-/unsip.ini
+README.md
+unsup.sig
+unsip.ini
+sign.sh
+.envrc
