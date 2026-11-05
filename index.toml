@@ -343,5 +343,5 @@ hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
 
 [[files]]
-file = "unsup.sig"
-hash = "58b99fe55f606a7711e0fefdb696886585397121e45079542136a2a924ff0cdd"
+file = "unsup.ini"
+hash = "71d00f4fa777c9b05e73a5a933d3a3d188c98f21f8e72192fc7547038766b503"
