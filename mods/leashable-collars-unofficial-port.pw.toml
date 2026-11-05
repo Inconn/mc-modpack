@@ -1,0 +1,13 @@
+name = "Leashable Collars (Unofficial Port)"
+filename = "playercollars-neoforge-1.21.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v1r5aCae/versions/zWRWzbCS/playercollars-neoforge-1.21.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "ff23c7ce20f5634d81a36f6eff5698a388647fc6592e9260d6db814a5e22523bb50c100f7fcded61efa8d3d00bf4f1af2074f27148a24f036d410bc7de30e942"
+
+[update]
+[update.modrinth]
+mod-id = "v1r5aCae"
+version = "zWRWzbCS"
