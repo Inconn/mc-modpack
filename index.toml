@@ -341,7 +341,3 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
-
-[[files]]
-file = "unsup.ini"
-hash = "5b1891f82066cff3e9f965da943406096428a1ac0d64d53c6c8a1fcc781e689b"
