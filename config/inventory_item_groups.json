@@ -1,0 +1,1349 @@
+{
+  "sort": "DEFAULT",
+  "showItemsInGroup": false,
+  "groups": [
+    {
+      "groupName": "Scorchia",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "scorchia"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Scoria",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "scoria"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Ochrum",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "ochrum"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Limestone",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "limestone"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Crimsite",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "crimsite"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Asurine",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "asurine"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Tuff",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "tuff"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Deepslate",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "deepslate"
+      ],
+      "nonContainedItems": [
+        "zinc"
+      ]
+    },
+    {
+      "groupName": "Dripstone",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "dripstone"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Calcite",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "calcite"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Andesite",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "layered_andesite",
+        "andesite_pillar",
+        "andesite_brick",
+        "cut_andesite"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Diorite",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "diorite"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Granite",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "granite"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Backpacks",
+      "tabId": "sophisticatedbackpacks:main",
+      "equivalentItems": [],
+      "containedItems": [
+        "backpack"
+      ],
+      "nonContainedItems": [
+        "grade"
+      ]
+    },
+    {
+      "groupName": "Knives",
+      "tabId": "farmersdelight:farmersdelight",
+      "equivalentItems": [],
+      "containedItems": [
+        "knife"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Hanging Canvas Signs",
+      "tabId": "farmersdelight:farmersdelight",
+      "equivalentItems": [],
+      "containedItems": [
+        "hanging_canvas_sign"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Signs",
+      "tabId": "farmersdelight:farmersdelight",
+      "equivalentItems": [],
+      "containedItems": [
+        "sign"
+      ],
+      "nonContainedItems": [
+        "hanging"
+      ]
+    },
+    {
+      "groupName": "Cabinets",
+      "tabId": "farmersdelight:farmersdelight",
+      "equivalentItems": [],
+      "containedItems": [
+        "cabinet"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Dog Bowls",
+      "tabId": "playercollars:group",
+      "equivalentItems": [],
+      "containedItems": [
+        "dog_bowl"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Dog Beds",
+      "tabId": "playercollars:group",
+      "equivalentItems": [],
+      "containedItems": [
+        "dog_bed"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Foot Paws",
+      "tabId": "playercollars:group",
+      "equivalentItems": [],
+      "containedItems": [
+        "foot_paw"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Paws",
+      "tabId": "playercollars:group",
+      "equivalentItems": [],
+      "containedItems": [
+        "paws"
+      ],
+      "nonContainedItems": [
+        "foot"
+      ]
+    },
+    {
+      "groupName": "Directrices",
+      "tabId": "hexcasting:hexcasting",
+      "equivalentItems": [],
+      "containedItems": [
+        "directrix"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Impeti",
+      "tabId": "hexcasting:hexcasting",
+      "equivalentItems": [],
+      "containedItems": [
+        "impetus"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Scrolls",
+      "tabId": "hexcasting:hexcasting",
+      "equivalentItems": [],
+      "containedItems": [
+        "scroll"
+      ],
+      "nonContainedItems": [
+        "scroll_paper"
+      ]
+    },
+    {
+      "groupName": "Staffs",
+      "tabId": "hexcasting:hexcasting",
+      "equivalentItems": [],
+      "containedItems": [
+        "staff"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Pigments",
+      "tabId": "hexcasting:hexcasting",
+      "equivalentItems": [],
+      "containedItems": [
+        "colorizer"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Chalk",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "chalk"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Veridium",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "veridium"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Windows",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "window"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "copper",
+      "tabId": "create:palettes",
+      "equivalentItems": [],
+      "containedItems": [
+        "copper_shingle",
+        "copper_tile"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "Thigh Highs",
+      "tabId": "estrogen:estrogen",
+      "equivalentItems": [
+        "estrogen:thigh_highs"
+      ],
+      "containedItems": [],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "logs",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "log",
+        "stem",
+        "bamboo_block"
+      ],
+      "nonContainedItems": [
+        "stripped"
+      ]
+    },
+    {
+      "groupName": "woods",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "wood",
+        "hyphae"
+      ],
+      "nonContainedItems": [
+        "stripped"
+      ]
+    },
+    {
+      "groupName": "stripped_logs",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "log",
+        "stem",
+        "bamboo_block"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "stripped_woods",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "wood",
+        "hyphae"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "stairs",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "stair"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "slabs",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "slab"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "planks",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "planks",
+        "mosaic"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "fence_gates",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "fence_gate"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "fences",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "fence"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "trapdoors",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "trapdoor"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "doors",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "door"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "pressure_plates",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "pressure_plate"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "buttons",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "button"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "bars",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "bar"
+      ],
+      "nonContainedItems": [
+        "cinnabar"
+      ]
+    },
+    {
+      "groupName": "chains",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "chain"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "copper",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "copper"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "walls",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "wall"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "decorative_stone",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "bricks",
+        "chiseled",
+        "tiles",
+        "polished"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "sandstone",
+      "tabId": "minecraft:building_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "sandstone"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "wool_stairs",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "wool_stairs"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "wool_slabs",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "wool_slab"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "wool",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "wool"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "carpets",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "carpet"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "glazed_terracotta",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "glazed_terracotta"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "terracotta",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "terracotta"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "concrete_powder",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "concrete_powder"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "concrete_stairs",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "concrete_stairs"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "concrete_slabs",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "concrete_slab"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "concrete",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "concrete"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "glass_panes",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "glass_pane"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "glass",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "glass"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "shulker_boxes",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "shulker_box"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "candles",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "candle"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "banners",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "banner"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "beds",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "bed"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "cushions",
+      "tabId": "minecraft:colored_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "_cushion"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "ores",
+      "tabId": "minecraft:natural_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "_ore",
+        "debris",
+        "raw_"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "mushrooms",
+      "tabId": "minecraft:natural_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "mushroom",
+        "fungus"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "saplings",
+      "tabId": "minecraft:natural_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "sapling",
+        "propagule"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "ground_cover",
+      "tabId": "minecraft:natural_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "fern",
+        "_grass",
+        "bush",
+        "_sprouts",
+        "hanging_moss",
+        "_vines",
+        "shrub"
+      ],
+      "nonContainedItems": [
+        "_bush"
+      ]
+    },
+    {
+      "groupName": "seeds",
+      "tabId": "minecraft:natural_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "seeds",
+        "_pod"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "flowers",
+      "tabId": "minecraft:natural_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "dandelion",
+        "poppy",
+        "orchid",
+        "allium",
+        "tulip",
+        "daisy",
+        "cornflower",
+        "torchflower",
+        "azure_bluet",
+        "valley",
+        "cactus_flower",
+        "eyeblossom",
+        "rose",
+        "petals",
+        "wildflower",
+        "crimson_roots",
+        "warped_roots",
+        "sunflower",
+        "peony",
+        "lilac",
+        "pitcher_plant"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "leaves",
+      "tabId": "minecraft:natural_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "leaves"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "coral_blocks",
+      "tabId": "minecraft:natural_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "coral_block"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "coral_decorations",
+      "tabId": "minecraft:natural_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "coral"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "stone",
+      "tabId": "minecraft:natural_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        ":stone",
+        "diorite",
+        "andesite",
+        "granite",
+        "tuff",
+        "basalt",
+        "blackstone",
+        "deepslate"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "logs",
+      "tabId": "minecraft:natural_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "log",
+        "stem"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "lanterns",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "lantern"
+      ],
+      "nonContainedItems": [
+        "sea"
+      ]
+    },
+    {
+      "groupName": "chains",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "chain"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "bulbs",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "bulb"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "anvils",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "anvil"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "lightning_rods",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "lightning_rod"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "shelves",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "_shelf"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "hanging_signs",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "hanging_sign"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "signs",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "sign"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "chests",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "chest"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "shulker_boxes",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "shulker_box"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "beds",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "_bed"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "candles",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "candle"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "banners",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "banner"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "skulls",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "head",
+        "skull"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "golem_statues",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "golem_statue"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "infested_stone",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "infested"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "paintings",
+      "tabId": "minecraft:functional_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "painting"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "bulbs",
+      "tabId": "minecraft:redstone_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "bulb"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "pressure_plates",
+      "tabId": "minecraft:redstone_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "pressure_plate"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "transport",
+      "tabId": "minecraft:redstone_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "minecart",
+        "boat",
+        "_raft"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "chests",
+      "tabId": "minecraft:redstone_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "chest"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "rails",
+      "tabId": "minecraft:redstone_blocks",
+      "equivalentItems": [],
+      "containedItems": [
+        "rail"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "shovels",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "shovel"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "pickaxes",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "pickaxe"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "axes",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "axe"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "hoes",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "hoe"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "bundles",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "bundle"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "firework_rockets",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "firework_rocket"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "harnesses",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "harness"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "chest_boats",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "chest_boat",
+        "chest_raft"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "boats",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "boat",
+        "_raft"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "rails",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "rail"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "minecarts",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "minecart"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "discs",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "disc"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "goat_horns",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "goat_horn"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "creature_buckets",
+      "tabId": "minecraft:tools_and_utilities",
+      "equivalentItems": [],
+      "containedItems": [
+        "cod_bucket",
+        "salmon_bucket",
+        "tropical_fish_bucket",
+        "pufferfish_bucket",
+        "axolotl_bucket",
+        "tadpole_bucket",
+        "sulfur_cube_bucket"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "swords",
+      "tabId": "minecraft:combat",
+      "equivalentItems": [],
+      "containedItems": [
+        "sword"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "spears",
+      "tabId": "minecraft:combat",
+      "equivalentItems": [],
+      "containedItems": [
+        "spear"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "axes",
+      "tabId": "minecraft:combat",
+      "equivalentItems": [],
+      "containedItems": [
+        "axe"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "helmets",
+      "tabId": "minecraft:combat",
+      "equivalentItems": [],
+      "containedItems": [
+        "helmet"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "chestplates",
+      "tabId": "minecraft:combat",
+      "equivalentItems": [],
+      "containedItems": [
+        "chestplate"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "leggings",
+      "tabId": "minecraft:combat",
+      "equivalentItems": [],
+      "containedItems": [
+        "leggings"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "boots",
+      "tabId": "minecraft:combat",
+      "equivalentItems": [],
+      "containedItems": [
+        "boots"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "horse_armor",
+      "tabId": "minecraft:combat",
+      "equivalentItems": [],
+      "containedItems": [
+        "horse_armor"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "nautilus_armor",
+      "tabId": "minecraft:combat",
+      "equivalentItems": [],
+      "containedItems": [
+        "nautilus_armor"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "eggs",
+      "tabId": "minecraft:combat",
+      "equivalentItems": [],
+      "containedItems": [
+        "egg"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "tipped_arrows",
+      "tabId": "minecraft:combat",
+      "equivalentItems": [],
+      "containedItems": [
+        "tipped_arrow"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "firework_rockets",
+      "tabId": "minecraft:combat",
+      "equivalentItems": [],
+      "containedItems": [
+        "firework_rocket"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "suspicious_stews",
+      "tabId": "minecraft:food_and_drinks",
+      "equivalentItems": [],
+      "containedItems": [
+        "suspicious_stew"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "ominous_bottles",
+      "tabId": "minecraft:food_and_drinks",
+      "equivalentItems": [],
+      "containedItems": [
+        "ominous_bottle"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "splash_potions",
+      "tabId": "minecraft:food_and_drinks",
+      "equivalentItems": [],
+      "containedItems": [
+        "splash_potion"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "lingering_potions",
+      "tabId": "minecraft:food_and_drinks",
+      "equivalentItems": [],
+      "containedItems": [
+        "lingering_potion"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "potions",
+      "tabId": "minecraft:food_and_drinks",
+      "equivalentItems": [],
+      "containedItems": [
+        "potion"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "cooked_food",
+      "tabId": "minecraft:food_and_drinks",
+      "equivalentItems": [],
+      "containedItems": [
+        "cooked"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "raw_food",
+      "tabId": "minecraft:food_and_drinks",
+      "equivalentItems": [],
+      "containedItems": [
+        "beef",
+        "porkchop",
+        "mutton",
+        "chicken",
+        "rabbit",
+        ":cod",
+        "salmon"
+      ],
+      "nonContainedItems": [
+        "rabbit_"
+      ]
+    },
+    {
+      "groupName": "dyes",
+      "tabId": "minecraft:ingredients",
+      "equivalentItems": [],
+      "containedItems": [
+        "dye"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "banner_patterns",
+      "tabId": "minecraft:ingredients",
+      "equivalentItems": [],
+      "containedItems": [
+        "banner_pattern"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "pottery_sherds",
+      "tabId": "minecraft:ingredients",
+      "equivalentItems": [],
+      "containedItems": [
+        "pottery_sherd"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "smithing_templates",
+      "tabId": "minecraft:ingredients",
+      "equivalentItems": [],
+      "containedItems": [
+        "smithing_template"
+      ],
+      "nonContainedItems": []
+    },
+    {
+      "groupName": "enchanted_books",
+      "tabId": "minecraft:ingredients",
+      "equivalentItems": [],
+      "containedItems": [
+        "enchanted_book"
+      ],
+      "nonContainedItems": []
+    }
+  ]
+}
