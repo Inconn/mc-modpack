@@ -88,6 +88,11 @@ hash = "c7f9286eabbfd298a73a92dc91031a27a8551a7cda8656f2173a4ba8cc0ac1a2"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
 metafile = true
@@ -99,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "2b61d5100f1db31c7928ba7de237c5f863926c49a4bf53fcce27bf0371ec0575"
+hash = "e753411e53ae58f46754b5ef60e70af81a9ec6b5e31f99c47777cc59fbbc5fe4"
 metafile = true
 
 [[files]]
@@ -428,6 +433,11 @@ hash = "cd3a11d638221005133f2341427a43bc0b19b24825fe4ab5641379c461dba915"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/ssrd.pw.toml"
 hash = "902b9f7cae33327dfb12e7a2dd454b20625644ce3c760d21b985e75e18a57e7c"
 metafile = true
@@ -448,6 +458,11 @@ hash = "0ea8ab3c8eebc336062f5e2da28c50f460fdc555913a9a66e4f27972c3a5e1ef"
 metafile = true
 
 [[files]]
+file = "mods/voxy-seedgen.pw.toml"
+hash = "d9530c9fca47cd383d066a1fae06f56524b4311225d48d5b1eac7a9f6526aa89"
+metafile = true
+
+[[files]]
 file = "mods/voxy-worldgen.pw.toml"
 hash = "f2a83eaee57d5dac4d7dd3631ee44c277e01747955e9f5b4e022ffffd0edb61e"
 metafile = true
@@ -455,6 +470,16 @@ metafile = true
 [[files]]
 file = "mods/voxy.pw.toml"
 hash = "328e7cf37cd42620b879daecb006d28c681dc132031cefed70bc73c629e87762"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "e97cb865d7a8c8310905d9140899fa55ea23c3fff2e23a17255ce2c162322ad7"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
 metafile = true
 
 [[files]]
