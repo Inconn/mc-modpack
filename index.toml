@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CNAME"
-hash = "d598bafd28491c6a6b8592daeabb68ff239c61eb0938ef8b72654b61fb61ce06"
-
-[[files]]
 file = "config/dynamic_fps.json"
 hash = "fca3b803240f9a7057fd8f46f1884e70e81a56c363b1bb787cf12d140c3fed90"
 
