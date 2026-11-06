@@ -228,6 +228,11 @@ hash = "f2849c357f9c82d017ff71c6d5e91ac8e51d6b0f2de9e7ae8d95bfb81759cd63"
 metafile = true
 
 [[files]]
+file = "mods/genesis-world-previewer-pregenerator.pw.toml"
+hash = "4d873cf59cb7d89bc578f57e83c020bbad066e85de6554f615d262b3b6047b4b"
+metafile = true
+
+[[files]]
 file = "mods/hexcasting.pw.toml"
 hash = "d2a15ffe53143a2a270b001de34d34d361b0c21b5cd900f0e49325b63325ab47"
 metafile = true
@@ -475,11 +480,6 @@ metafile = true
 [[files]]
 file = "mods/voxy.pw.toml"
 hash = "328e7cf37cd42620b879daecb006d28c681dc132031cefed70bc73c629e87762"
-metafile = true
-
-[[files]]
-file = "mods/world-preview-neoforged-unofficial.pw.toml"
-hash = "e7b937eee11430edcddc8985d59c7fddb8bd818a04b74d1b5f69cb19cb216320"
 metafile = true
 
 [[files]]
