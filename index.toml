@@ -9,6 +9,10 @@ file = "config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
+file = "config/inventory_item_groups.json"
+hash = "cb31907c6dbd5206720102da470691c3804d4dad05f76efea7cbac873934710b"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
 
