@@ -1,13 +1,13 @@
 name = "Genesis - World Previewer & Pregenerator"
-filename = "Genesis-2.2.0-NEOFORGE.jar"
+filename = "Genesis-2.3.0-NEOFORGE.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xXuFelru/versions/a3yEbjjS/Genesis-2.2.0-NEOFORGE.jar"
+url = "https://cdn.modrinth.com/data/xXuFelru/versions/udjGVp1e/Genesis-2.3.0-NEOFORGE.jar"
 hash-format = "sha512"
-hash = "60773af1d3d62d9f873858d8ad30c043fe9e26286c9cc1594fe7768c4fc472ba5b0854362e62af283cefb92fbf41cec9e04a059ba8ee803afb1684b312194d0e"
+hash = "cd594db30233e7c95b0d837f4bcf9fa5bb05c82d6055305b0f465fea87610af51cef5deca4af8e0c4454e3fd5d19bcae2f6a1780325544a1edfbd943be8a5b45"
 
 [update]
 [update.modrinth]
 mod-id = "xXuFelru"
-version = "a3yEbjjS"
+version = "udjGVp1e"
