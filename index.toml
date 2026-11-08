@@ -29,6 +29,10 @@ file = "config/modernfix-mixins.properties"
 hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
 
 [[files]]
+file = "config/neoforge-client.toml"
+hash = "06364c8fe7cc156a892d52aa7398d045946ea540e788cd893cbea426660d0c04"
+
+[[files]]
 file = "config/wover/client.json"
 hash = "629bfe4dffb7f2b0230e8218941ae36c487f7d97869a3f3a374d8e93a84e141c"
 
@@ -586,10 +590,6 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
-
-[[files]]
-file = "neoforge-client.toml"
-hash = "06364c8fe7cc156a892d52aa7398d045946ea540e788cd893cbea426660d0c04"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
