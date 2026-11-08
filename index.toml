@@ -424,6 +424,11 @@ hash = "36baf3e2a12358693c38afa235ea32208854ea9cabcd6d5540191ff684d3e6f9"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "a76b6068b10171b1fc244d5cb0a9dfbd0694b33e25c62eeeb5726c73d297cd3d"
 metafile = true
