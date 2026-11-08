@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy-seedgen.pw.toml"
-hash = "d9530c9fca47cd383d066a1fae06f56524b4311225d48d5b1eac7a9f6526aa89"
+hash = "03c750ed6febd1a9ca8c65c3d4b029005141fd56ca6190458ea35fb50a0b02ba"
 metafile = true
 
 [[files]]

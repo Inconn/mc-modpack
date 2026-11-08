@@ -1,6 +1,6 @@
 name = "Voxy SeedGen"
 filename = "Voxy SeedGen 0.3.1 1.21.1 NeoForge.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ey3OuBuM/versions/d4Wve2GS/Voxy%20SeedGen%200.3.1%201.21.1%20NeoForge.jar"
