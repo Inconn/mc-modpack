@@ -13,6 +13,10 @@ file = "config/inventory_item_groups.json"
 hash = "cb31907c6dbd5206720102da470691c3804d4dad05f76efea7cbac873934710b"
 
 [[files]]
+file = "config/mod_menu-client.toml"
+hash = "b7c0e1fc71a537d20aa72bd50515dc0ecc4776b4e5fceaf79d6d974dc0410f57"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
 
@@ -24,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/accessories.pw.toml"
 hash = "2017362c793d95887d38b3353abb7c77f212175e82ed848296575ea0e466b7d7"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs-1.21.1.pw.toml"
+hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
 metafile = true
 
 [[files]]
@@ -42,6 +51,11 @@ hash = "1f1cab010a5a3d8b06c893775307bd8f0c67e1713624b9048a39361dca28dea5"
 metafile = true
 
 [[files]]
+file = "mods/bclib-neoforge.pw.toml"
+hash = "c3c9a50495bda856f0d71e5f71f13dff3a66ce5b41fd70d2ff385f31bef819a4"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "eb0c1e82baced061d551f83b4be1c9996029d8b6571eca5390bc0eca96b9f7a6"
 metafile = true
@@ -52,8 +66,8 @@ hash = "421bb187226a76e25fb0650382cf4b3e2824a8a315241ef3d17a6626be0e1580"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
+file = "mods/betterend-neoforge.pw.toml"
+hash = "b7c3cbbbe4271c89152488dee9bf8d7a1e5438747ec41adc4f6cc237df757609"
 metafile = true
 
 [[files]]
@@ -84,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/chunksmith.pw.toml"
 hash = "054acc91b441555e2340e4cc50e4e0c08bc962bae326bb130d489894dc76ec1b"
+metafile = true
+
+[[files]]
+file = "mods/citadel-1.21.1-port.pw.toml"
+hash = "80d7af83c244304212b8d95ab2e3525b3eeae02f31e41474c2cdec2f4d370723"
 metafile = true
 
 [[files]]
@@ -302,6 +321,11 @@ hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-lang-forge.pw.toml"
+hash = "2ba116824f0ea4a1b961d4d8b2af72483938ccc9da3428126b907c5d524e131c"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
@@ -349,11 +373,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
-metafile = true
-
-[[files]]
-file = "mods/new-lodestone-recipe.pw.toml"
-hash = "818113c0412a29c2234f2434f4672bd437d56021a10b0d11d20e98d0fe1cb96f"
 metafile = true
 
 [[files]]
@@ -437,6 +456,11 @@ hash = "860d3b3e2c407980ece69e51896fb5e2e1ffcdb63b6956d440f331cf73777c83"
 metafile = true
 
 [[files]]
+file = "mods/simplify.pw.toml"
+hash = "a0998393349a29fdc2c6cc4edb31492a9354b592088be2368e84a84ecc725e60"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
@@ -453,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+hash = "5995decc8738d7ddccec218dfa1ed95db9eca5bb64c98fd2cede8bf9bbc837c2"
 metafile = true
 
 [[files]]
@@ -477,6 +501,21 @@ hash = "0ea8ab3c8eebc336062f5e2da28c50f460fdc555913a9a66e4f27972c3a5e1ef"
 metafile = true
 
 [[files]]
+file = "mods/veinminer-client.pw.toml"
+hash = "15f45effca82617edec83f72cdda0852746a354c2158cc2277ae3abbc72dcd24"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-enchantment.pw.toml"
+hash = "9677ea6c4274a147bc2fe7d1b2d35c18c091902fd4b135e1e54e2c646ff85164"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "03a9564d7cdb16578f46c6f58dcc261968bb440c243ad90229d8ce58aaccc0d3"
+metafile = true
+
+[[files]]
 file = "mods/voxy-seedgen.pw.toml"
 hash = "d9530c9fca47cd383d066a1fae06f56524b4311225d48d5b1eac7a9f6526aa89"
 metafile = true
@@ -484,6 +523,16 @@ metafile = true
 [[files]]
 file = "mods/voxy.pw.toml"
 hash = "328e7cf37cd42620b879daecb006d28c681dc132031cefed70bc73c629e87762"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver-neoforge.pw.toml"
+hash = "c7812eda3fdc8cf823c886707f5d3f51c838754fccff39447c52d991f079bb99"
+metafile = true
+
+[[files]]
+file = "mods/wunderlib-neoforge.pw.toml"
+hash = "59f0ddb50597f1bec9a062ff4a2b11215541494ac74a61214358a4b5994164a8"
 metafile = true
 
 [[files]]

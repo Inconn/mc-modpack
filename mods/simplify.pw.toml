@@ -1,0 +1,13 @@
+name = "Simplify"
+filename = "simplify-1.0.8-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Rg50Db5/versions/QY3eqYK3/simplify-1.0.8-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "f3ff84f952b0363396c0a4b9b4b90a48a2d4f63637afd5f35cfd01dcd24b141163f16b374de8b8001abb4a02c582b916ac701beae55c79ff14ad5bfe41e123ac"
+
+[update]
+[update.modrinth]
+mod-id = "9Rg50Db5"
+version = "QY3eqYK3"
