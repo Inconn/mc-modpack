@@ -1,0 +1,8 @@
+name = "Vanilla Backport Locator Bar Fix"
+filename = "vanillabackportlocatorbarfix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Inconn/VanillaBackportLocatorBarFix/releases/download/v1.0.0/vanillabackportlocatorbarfix-1.0.0.jar"
+hash-format = "sha512"
+hash = "5724e5c70f672b9b8ba7f87328311b5e6de8d7f65d42450adee4759d18d7f3a9c39ce3f18b9c3bedb3daaf15df80e814c772b48fc68615bdbac8506671173de7"

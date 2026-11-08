@@ -509,6 +509,11 @@ hash = "0ea8ab3c8eebc336062f5e2da28c50f460fdc555913a9a66e4f27972c3a5e1ef"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackportlocatorbarfix.pw.toml"
+hash = "7c2ec02c57f29f82e1454644a7da3e88a39d4be7dab4c961adf31408061be542"
+metafile = true
+
+[[files]]
 file = "mods/veinminer-client.pw.toml"
 hash = "15f45effca82617edec83f72cdda0852746a354c2158cc2277ae3abbc72dcd24"
 metafile = true
