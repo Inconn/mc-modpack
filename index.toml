@@ -21,6 +21,10 @@ file = "config/modernfix-mixins.properties"
 hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
 
 [[files]]
+file = "config/wover/client.json"
+hash = "629bfe4dffb7f2b0230e8218941ae36c487f7d97869a3f3a374d8e93a84e141c"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "b77da93300cfb9a239aa33ad731f9672ae3c74d3218aa149df89449962cb8594"
 metafile = true
@@ -548,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
 metafile = true
 
 [[files]]
