@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/abacusfix.pw.toml"
-hash = "a536b5fae42473542288289f59d580e74fa9d959f906b48301df2c4ea47cb559"
+hash = "39c32cbbfa2715f643fed45cdc943806a8b622bfc0ab3093a31211b487a07cb5"
 metafile = true
 
 [[files]]

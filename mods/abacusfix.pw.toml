@@ -3,6 +3,6 @@ filename = "abacusfix-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Inconn/abacusfix/releases/download/v1.0.0/abacusfix-1.0.0.jar"
+url = "https://github.com/Inconn/abacusfix/releases/download/1.0.0/abacusfix-1.0.0.jar"
 hash-format = "sha512"
 hash = "67429ba2de3bdc01995e7c68beb1f25a46aac1079eb018299e6c5bc080619c8f2b93aaa9b921b6f5f8973b69d045ad706464ec3fb33fb6702cbb26349d731002"
