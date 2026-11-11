@@ -50,6 +50,11 @@ hash = "2dc498bd8a43a8e02fc9d08fe5846ac17f6eabbecbf38ae39aa7b1f23fe100b0"
 metafile = true
 
 [[files]]
+file = "mods/abacusfix.pw.toml"
+hash = "a536b5fae42473542288289f59d580e74fa9d959f906b48301df2c4ea47cb559"
+metafile = true
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "b77da93300cfb9a239aa33ad731f9672ae3c74d3218aa149df89449962cb8594"
 metafile = true
