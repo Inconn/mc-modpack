@@ -385,6 +385,11 @@ hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
 
 [[files]]
+file = "mods/jasione.pw.toml"
+hash = "f85e238f07782d2ba3c79d1e55636e1ed58e7da91052c6c6b6c79183035ddc8b"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "b0c37ca9826781a6bf1373ae02a141b4202037515eb071ec2327410771de6ea5"
 metafile = true
