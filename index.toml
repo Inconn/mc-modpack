@@ -135,8 +135,8 @@ hash = "1d15653f184f09a0baeb343bd722e305aae882b64728cc5ede2e5be08fcebc20"
 metafile = true
 
 [[files]]
-file = "mods/chunksmith.pw.toml"
-hash = "054acc91b441555e2340e4cc50e4e0c08bc962bae326bb130d489894dc76ec1b"
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
@@ -665,8 +665,13 @@ hash = "03c750ed6febd1a9ca8c65c3d4b029005141fd56ca6190458ea35fb50a0b02ba"
 metafile = true
 
 [[files]]
+file = "mods/voxy-server-side.pw.toml"
+hash = "2bbb72f0796a7f808001d1e59e664375ba7e5ad1a267a03c06ba684f256d2a23"
+metafile = true
+
+[[files]]
 file = "mods/voxy.pw.toml"
-hash = "328e7cf37cd42620b879daecb006d28c681dc132031cefed70bc73c629e87762"
+hash = "2ca53c4a3a4e26778149054856f8b863f26943e605654f4993f904e87789b65b"
 metafile = true
 
 [[files]]
