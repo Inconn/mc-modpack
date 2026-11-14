@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/roxy.pw.toml"
-hash = "083e61527339e1dd4d199d58c3ee6e56fe7b76a167d1ac50d7fd8ab3f4593490"
+hash = "4d80d6f355e734640af943e967c8c002d4e39eac4bf01cf13dced92e8ba16db4"
 metafile = true
 
 [[files]]
@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "2ca53c4a3a4e26778149054856f8b863f26943e605654f4993f904e87789b65b"
+hash = "328e7cf37cd42620b879daecb006d28c681dc132031cefed70bc73c629e87762"
 metafile = true
 
 [[files]]
