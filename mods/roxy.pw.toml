@@ -1,6 +1,6 @@
 name = "Roxy"
 filename = "roxy-1.21.1-NeoForge-0.4.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ap78bKTp/versions/VnJRhuAn/roxy-1.21.1-NeoForge-0.4.1.jar"

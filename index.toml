@@ -435,6 +435,11 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
+file = "mods/lod-server-support.pw.toml"
+hash = "9d9f7d39f8233795493eebf3668f088ed4e224718332a8b762b1e6a17305c4bf"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
 metafile = true
@@ -556,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/roxy.pw.toml"
-hash = "4d80d6f355e734640af943e967c8c002d4e39eac4bf01cf13dced92e8ba16db4"
+hash = "083e61527339e1dd4d199d58c3ee6e56fe7b76a167d1ac50d7fd8ab3f4593490"
 metafile = true
 
 [[files]]
@@ -665,13 +670,8 @@ hash = "03c750ed6febd1a9ca8c65c3d4b029005141fd56ca6190458ea35fb50a0b02ba"
 metafile = true
 
 [[files]]
-file = "mods/voxy-server-side.pw.toml"
-hash = "2bbb72f0796a7f808001d1e59e664375ba7e5ad1a267a03c06ba684f256d2a23"
-metafile = true
-
-[[files]]
 file = "mods/voxy.pw.toml"
-hash = "328e7cf37cd42620b879daecb006d28c681dc132031cefed70bc73c629e87762"
+hash = "2ca53c4a3a4e26778149054856f8b863f26943e605654f4993f904e87789b65b"
 metafile = true
 
 [[files]]
