@@ -435,11 +435,6 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
-file = "mods/lod-server-support.pw.toml"
-hash = "9d9f7d39f8233795493eebf3668f088ed4e224718332a8b762b1e6a17305c4bf"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
 metafile = true
