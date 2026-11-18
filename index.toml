@@ -680,6 +680,21 @@ hash = "2ca53c4a3a4e26778149054856f8b863f26943e605654f4993f904e87789b65b"
 metafile = true
 
 [[files]]
+file = "mods/waterframes.pw.toml"
+hash = "9846a53a5ee9a09bf9893d331571b14bbc31af97912a7b19f4461563e9d82ab1"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-binaries.pw.toml"
+hash = "a5f14ae7a139e00388c234d4590bb5d9f527a5424e2aeee5b06c7c34283b5ff5"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "da8d2961cd4074dd2a18a9f584946a7ed4c4611ebc4b674fad07c68f3ab969df"
+metafile = true
+
+[[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
 hash = "c7812eda3fdc8cf823c886707f5d3f51c838754fccff39447c52d991f079bb99"
 metafile = true
