@@ -135,6 +135,11 @@ hash = "1d15653f184f09a0baeb343bd722e305aae882b64728cc5ede2e5be08fcebc20"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits-shader-compat-unofficial.pw.toml"
+hash = "3bc37d36e002016c2e969cff6147a1ecf464b54266eafb88597a84ec482ea532"
+metafile = true
+
+[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "5f2998cf925a3b0366af0f5fff84bed6995fd8715b14b80f136f4607eba4af4d"
 metafile = true
