@@ -250,11 +250,6 @@ hash = "e5052e0fcba9af1e3c6c0734829b441bc5a23012108bf203ca01825ca12ff6b1"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.pw.toml"
-hash = "37aa8d7a4fc96de58a912a57708a341b6c1822aa9c1d2c713a2166c76c27d73d"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "2484b38bf65c7eceef1902fa2a1c3de97333a18d220dab213390da887c4141ee"
 metafile = true
@@ -691,22 +686,17 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "59e15d108b41b10145596a3ef899ad20ef8c8885504eef10cd89225aef87daef"
+hash = "9846a53a5ee9a09bf9893d331571b14bbc31af97912a7b19f4461563e9d82ab1"
 metafile = true
 
 [[files]]
-file = "mods/watermedia-platform-extension.pw.toml"
-hash = "2ee25e2dc1d283dc8ca6070cb3540800f50d31d1985335fd364e13c3aee87028"
+file = "mods/watermedia-binaries.pw.toml"
+hash = "a5f14ae7a139e00388c234d4590bb5d9f527a5424e2aeee5b06c7c34283b5ff5"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
-metafile = true
-
-[[files]]
-file = "mods/watervision.pw.toml"
-hash = "393310e8c75c51eb3143c8ddcdac51917a5d759d428e5b962e4c2b4c8e87bc0e"
+hash = "7712f5915f30f65972dd45223086dc8e97acdc050caa9d0d32c3a8e74960254f"
 metafile = true
 
 [[files]]
