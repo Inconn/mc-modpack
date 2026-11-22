@@ -285,6 +285,11 @@ hash = "c64bffb51596c65dbea0a7f12a6bd55ea55ef015dcc27779a87f7092714fe9a9"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "acca756841ee5e088eaec9474758e402247965f3adf6d7ccd612bb715aa836c9"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
